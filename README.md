@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo of the website
+Here is the link to the live demo https://linkdin-clone-c193f.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
